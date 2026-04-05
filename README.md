@@ -86,7 +86,7 @@ cd finance-dashboard
 npm install
 
 # Run the app
-npm start
+npm start/npm run dev
 🙌 Acknowledgements
 
 Inspired by modern fintech dashboards and UI trends.
