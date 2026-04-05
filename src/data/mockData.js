@@ -1,0 +1,36 @@
+export const mockTransactions = [
+  { id: '1', date: '2026-04-01', amount: 3500, category: 'Salary', type: 'income', description: 'Monthly salary' },
+  { id: '2', date: '2026-04-02', amount: -120, category: 'Groceries', type: 'expense', description: 'Weekly shopping' },
+  { id: '3', date: '2026-04-03', amount: -45, category: 'Transport', type: 'expense', description: 'Gas' },
+  { id: '4', date: '2026-04-03', amount: -80, category: 'Entertainment', type: 'expense', description: 'Movie tickets' },
+  { id: '5', date: '2026-04-04', amount: -200, category: 'Utilities', type: 'expense', description: 'Electricity bill' },
+  { id: '6', date: '2026-03-28', amount: -150, category: 'Shopping', type: 'expense', description: 'Clothes' },
+  { id: '7', date: '2026-03-25', amount: 500, category: 'Freelance', type: 'income', description: 'Project payment' },
+  { id: '8', date: '2026-03-22', amount: -60, category: 'Food', type: 'expense', description: 'Restaurant' },
+  { id: '9', date: '2026-03-20', amount: -35, category: 'Transport', type: 'expense', description: 'Uber' },
+  { id: '10', date: '2026-03-18', amount: -90, category: 'Healthcare', type: 'expense', description: 'Pharmacy' },
+  { id: '11', date: '2026-03-15', amount: -250, category: 'Shopping', type: 'expense', description: 'Electronics' },
+  { id: '12', date: '2026-03-10', amount: -100, category: 'Groceries', type: 'expense', description: 'Monthly groceries' },
+  { id: '13', date: '2026-03-05', amount: 3500, category: 'Salary', type: 'income', description: 'Monthly salary' },
+  { id: '14', date: '2026-03-03', amount: -180, category: 'Utilities', type: 'expense', description: 'Internet & Phone' },
+  { id: '15', date: '2026-02-28', amount: -75, category: 'Entertainment', type: 'expense', description: 'Concert' },
+  { id: '16', date: '2026-02-25', amount: -120, category: 'Food', type: 'expense', description: 'Dining out' },
+  { id: '17', date: '2026-02-20', amount: 200, category: 'Investment', type: 'income', description: 'Dividend' },
+  { id: '18', date: '2026-02-15', amount: -300, category: 'Healthcare', type: 'expense', description: 'Doctor visit' },
+  { id: '19', date: '2026-02-10', amount: -95, category: 'Transport', type: 'expense', description: 'Car maintenance' },
+  { id: '20', date: '2026-02-05', amount: 3500, category: 'Salary', type: 'income', description: 'Monthly salary' },
+]
+
+export const categories = [
+  'Salary',
+  'Freelance',
+  'Investment',
+  'Groceries',
+  'Transport',
+  'Entertainment',
+  'Utilities',
+  'Shopping',
+  'Food',
+  'Healthcare',
+  'Other'
+]
