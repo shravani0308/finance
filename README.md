@@ -55,9 +55,17 @@ finance-dashboard/
 │
 ├── public/
 ├── package.json
+
+
+
 📸 Screenshots
 
-👉 (Add screenshots here for more impact — very important for recruiters)
+👉 <img width="1874" height="915" alt="image" src="https://github.com/user-attachments/assets/6b8eacc1-4db5-48a4-acb8-defb8900faf9" />
+<img width="1885" height="910" alt="image" src="https://github.com/user-attachments/assets/29c8eff3-0ade-42ad-b8c9-ef4c8dfb49df" />
+<img width="1873" height="815" alt="image" src="https://github.com/user-attachments/assets/8a1a4793-74c1-4217-812c-4291dc2ddbdd" />
+
+
+
 
 💡 Key Highlights (Why This Project Stands Out)
 💼 Demonstrates real-world financial dashboard UI
