@@ -4,7 +4,7 @@ A modern, responsive Finance Dashboard UI built to visualize personal financial 
 
 🚀 Live Demo
 
-👉 (Add your deployed link here — Netlify / Vercel)
+👉 (https://vermillion-beijinho-5d81b6.netlify.app/)
 
 📌 Features
 
